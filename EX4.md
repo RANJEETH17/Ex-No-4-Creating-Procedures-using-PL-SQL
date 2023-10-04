@@ -13,6 +13,7 @@
 ### Program:
 ```
 SQL> CREATE TABLE emp( empid NUMBER,empname VARCHAR(10),dept VARCHAR(10), salary NUMBER);
+SQL> set serveroutput on
 SQL> CREATE OR REPLACE PROCEDURE emp_data AS
   2  BEGIN
   3  INSERT INTO emp(empid,empname,dept,salary)
