@@ -29,6 +29,7 @@ SQL> CREATE OR REPLACE PROCEDURE emp_data AS
  13  END;
  14  /
 ```
+```
 
 ### Output:
 ![image](https://github.com/RANJEETH17/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/120718823/26c5f68b-4438-4e21-8006-36d06597aad3)
