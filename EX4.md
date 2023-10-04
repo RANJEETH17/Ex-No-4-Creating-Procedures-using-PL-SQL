@@ -32,7 +32,8 @@ SQL> CREATE OR REPLACE PROCEDURE emp_data AS
 ```
 
 ### Output:
-![image](https://github.com/RANJEETH17/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/120718823/53223f1b-9315-4b51-a438-eab41ed7f939)
+![WhatsApp Image 2023-10-04 at 21 53 18_dc3e0ce2](https://github.com/RANJEETH17/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/120718823/ea6d0bf4-c3e1-4b5c-b7e4-ef2979a38c82)
+
 
 
 
