@@ -29,7 +29,6 @@ SQL> CREATE OR REPLACE PROCEDURE emp_data AS
  13  END;
  14  /
 ```
-```
 
 ### Output:
 
